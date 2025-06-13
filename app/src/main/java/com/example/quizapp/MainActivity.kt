@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
                 }
             } else {
                 Toast.makeText(this@MainActivity,"Please enter your name", Toast.LENGTH_LONG).show()
-            }
+            } // show cooments
         }
     }
 }
