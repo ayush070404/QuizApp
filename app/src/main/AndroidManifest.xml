@@ -46,7 +46,7 @@
         <activity
             android:name=".ui.ResultActivity"
             android:exported="false"
-            android:theme="@style/Theme.QuizApp.NoActionBar">
+            android:theme="@style/Theme.QuizApp.NoActionBar"> // will add animation and json file later
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
@@ -54,3 +54,5 @@
 
     </application>
 </manifest>
+
+
